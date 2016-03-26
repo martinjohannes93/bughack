@@ -51,5 +51,5 @@ Ein Github-Link zum Repository soll ins Wiki geschrieben werden.
 Mit dem Protokoll der internen Treffen soll ebenso verfahren werden.
 
 ##### TOP 4: Termine
-Das 3. Meeting mit dem Betreuer findet am **Do. 07.04.16 um 13:00 Uhr in C 2.09**
+Das 3. Meeting mit dem Betreuer findet am **Do. 07.04.16 um 13:00 Uhr in C 2.09** statt.
 
