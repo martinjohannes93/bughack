@@ -1,0 +1,12 @@
+dokumentation/*.aux
+dokumentation/*.log
+dokumentation/*.lot
+dokumentation/*.lof
+dokumentation/*.out
+dokumentation/*.bbl
+dokumentation/*.blg
+dokumentation/*.toc
+dokumentation/*.idx
+dokumentation/*.pdf
+dokumentation/content/*.aux
+
