@@ -33,7 +33,7 @@ handelt. Beim nächsten Meeting soll jemand anderes das Protokoll führen.
 Da der Projektplan sich im Laufe der Projekts verändern kann, ist auch hier die
 Möglichkeit gegeben, die Aufgabe des Planens an verschiedene Projektbeteiligte
 zu übertragen. Hier merkt der Betreuer an, darauf zu achten, dass man immer
-weiß was man gearde zu tun hat. Sollte das nicht der Fall sein, soll sofort
+weiß was man gerade zu tun hat. Sollte das nicht der Fall sein, soll sofort
 nachgefragt werden.
 
 ##### TOP 2: Notengebung
@@ -46,10 +46,10 @@ hinsichtlich der Notengebung:
   Einzelleistung abzuleiten und diese zu beurteilen
 - Ein möglicher Vorschlag wäre, dass jeder die anderen (geheim) bewertet oder
   in eine Reihenfolge bringt
-- Ein weiterer Vorschlag wäre, dass Gespräche mit den Einzelnen Teilnehmner
+- Ein weiterer Vorschlag wäre, dass Gespräche mit den Einzelnen Teilnehmern
   geführt werden
 
-Da das Semester jedoch noch sehr am Anfang steht, wurde das Thema
+Da das Semesterprojekt jedoch noch sehr am Anfang steht, wurde das Thema
 Notengebung auf ein späteres Meeting verschoben.
 
 ##### TOP 3: Dokumentation
