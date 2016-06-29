@@ -10,7 +10,7 @@ gcc -o affected stackOverflow_affected.c<br />
 Then start the gdb or other analysis tools to find the bug, e.g.:<br />
 gdb -q affected
 
-After that, copy the source code and correct it
+After that, copy the source code and correct it<br />
 cp stackOverflow_affected.c stackOverflow_myBugfix_MyName<br />
 nano stackOverflow_myBugfix_MyName.c<br />
 
