@@ -15,13 +15,15 @@
 \newcommand{\docNameD}{Martin}
 \newcommand{\docNameE}{Kai}
 
+\newcommand{\kaspar}{~Prof. Dr. Kaspar~}
+
 % Dokumentdaten
 \newcommand{\docTitle}{Semesterprojekt 2016}
 %\newcommand{\docUntertitle}{} % Kein Untertitel
 \newcommand{\docUntertitle}{Verborgene Bugs in C-Code einbauen und finden}
 %Studiengaenge: Allgemeine Informatik Bachelor, Computer Networking Bachelor,
 % Software-Produktmanagement Bachelor, Advanced Computer Scinece Master
-\newcommand{\docErsterReferent}{Prof. Dr. Kaspar}
+\newcommand{\docErsterReferent}{\kaspar}
 %\newcommand{\docZweiterReferent}{-} % Wenn es nur einen Betreuer gibt
 \newcommand{\docZweiterReferent}{-}
 
@@ -192,7 +194,7 @@
 
 \usepackage{listings}
 \lstset{
-	language=java,
+	language=c,
 	backgroundcolor=\color{white},
 	breaklines=true,
 	prebreak={\carriagereturn},
@@ -249,3 +251,6 @@
     pdfpagelabels=true,
     hyperfootnotes,
     pdftitle ={\docTitle}]{hyperref}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
