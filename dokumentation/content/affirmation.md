@@ -1,7 +1,7 @@
 Eidesstattliche Erklärung {#eidesstattliche-erklärung .unnumbered}
 =========================
 
-Ich versichere, dass ich die vorstehende Arbeit selbständig verfasst und
+Ich versichere, dass ich die vorstehende Arbeit selbstständig verfasst und
 hierzu keine anderen als die angegebenen Hilfsmittel verwendet habe.
 Alle Stellen der Arbeit die wörtlich oder sinngemäß aus fremden Quellen
 entnommen wurden, sind als solche kenntlich gemacht.\
